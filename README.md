@@ -1,6 +1,8 @@
 # Pothole-Detection-in-Matlab-with-gui
 
 Steps To execute 
+Prerequisite = Matlab 
+Installing matlab 
 1. Open Matlab 
 2. Download or clone the project 
 3. In matlab in top right corner click the install app button and select the pot_det.mpinstall file and the file will be installed
